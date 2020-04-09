@@ -44,7 +44,7 @@ function App() {
         container: mapboxElRef.current,
         style: "mapbox://styles/mapbox/dark-v10",
         center: [16, 27],
-        zoom: 2
+        zoom: 1
       });
 
       // Add navigation controls to the top right of the canvas
@@ -72,26 +72,28 @@ function App() {
               ["linear"],
               ["get", "cases"],
               1,
-              0.5,
+              0,
               100000,
-              0.5
+              0
             ],
             "circle-radius": [
               "interpolate",
               ["linear"],
               ["get", "cases"],
               1,
-              4,
+              7,
               1000,
-              8,
-              4000,
-              10,
-              8000,
-              14,
+              11,
+              5000,
+              15,
               12000,
-              18,
+              20,
+              25000,
+              30,
+              50000,
+              35,
               100000,
-              28
+              45
             ],
             "circle-color": [
               "interpolate",
