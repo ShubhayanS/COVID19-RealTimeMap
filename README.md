@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ShubhayanS/COVID19-RealTimeMap/graphs/commit-activity) 
 [![GitHub issues](https://img.shields.io/github/issues/ShubhayanS/COVID19-RealTimeMap)](https://github.com/ShubhayanS/WhatsApp-Message-Sender/issues)
-[![GitHub forks](https://img.shields.io/github/forks/ShubhayanS/COVID19-RealTimeMap?style=social)](https://github.com/ShubhayanS/WhatsApp-Message-Sender/network) [![GitHub stars](https://img.shields.io/github/stars/ShubhayanS/WhatsApp-Message-Sender?style=social)](https://github.com/ShubhayanS/COVID19-RealTimeMap/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ShubhayanS/COVID19-RealTimeMap?style=social)](https://github.com/ShubhayanS/COVID19-RealTimeMap/network) [![GitHub stars](https://img.shields.io/github/stars/ShubhayanS/WhatsApp-Message-Sender?style=social)](https://github.com/ShubhayanS/COVID19-RealTimeMap/stargazers)
  [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
