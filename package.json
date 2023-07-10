@@ -9,7 +9,7 @@
     "country-code-lookup": "0.0.17",
     "gh-pages": "^2.2.0",
     "homepage": "https://github.com/ShubhayanS/COVID19-RealTimeMap",
-    "mapbox-gl": "^1.9.1",
+    "mapbox-gl": "^1.13.3",
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
