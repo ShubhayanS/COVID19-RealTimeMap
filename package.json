@@ -10,10 +10,10 @@
     "gh-pages": "^2.2.0",
     "homepage": "https://github.com/ShubhayanS/COVID19-RealTimeMap",
     "mapbox-gl": "^1.9.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^9.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "swr": "^0.2.0"
   },
   "scripts": {
